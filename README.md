@@ -25,3 +25,4 @@ Verification:Confirmed routing via ICMP Pings.
 Tools Used
 Cisco Packet Tracer
 Cisco IOS Command Line
+<img width="1039" height="614" alt="Screenshot 2026-02-09 184416" src="https://github.com/user-attachments/assets/4f8fa723-eb27-408d-bfc9-011cf94cb91e" />
